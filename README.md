@@ -1,4 +1,4 @@
 image_in_text
 =============
 
-Probably not the best way to insert an image in a text, but it works
+Insert an image inside the font, as a texture. Probably not the best way to do it, but it works.
